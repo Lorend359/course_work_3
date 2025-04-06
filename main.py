@@ -1,14 +1,24 @@
-from src.api.hh_api import search_employers, get_vacancies_by_employer
+from src.api.hh_api import search_employers, get_vacancies_by_employer, get_top_companies
+
 
 if __name__ == "__main__":
-    query = "Тинькофф"
-    employers = search_employers(query)
+    print("1. Получить вакансии по компании")
+    print("2. Сохранить топ-10 компаний в companies.json")
+    choice = input("Выберите действие: ")
 
-    for emp in employers:
-        print(f"{emp['id']}: {emp['name']}")
+    if choice == "1":
+        query = input("Введите название компании: ")
+        employers = search_employers(query)
 
-    if employers:
-        print("\nПервые 5 вакансий компании:")
-        vacancies = get_vacancies_by_employer(employers[0]["id"])
-        for v in vacancies[:5]:
-            print(f"{v['name']} — {v['alternate_url']}")
+        for emp in employers:
+            print(f"{emp['id']}: {emp['name']}")
+
+        if employers:
+            print("\nПервые 5 вакансий компании:")
+            vacancies = get_vacancies_by_employer(employers[0]["id"])
+            for v in vacancies[:5]:
+                print(f"{v['name']} — {v['alternate_url']}")
+    elif choice == "2":
+        get_top_companies()
+    else:
+        print("Неверный выбор.")
