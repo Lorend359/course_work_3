@@ -4,10 +4,10 @@ from src.api.hh_api import get_vacancies_by_employer
 
 def collect_all_vacancies() -> None:
     """
-    Получает вакансии по списку компаний из companies.json
-    и сохраняет результат в vacancies.json.
+    Получает вакансии по списку компаний из data/companies.json
+    и сохраняет результат в data/vacancies.json.
     """
-    with open("companies.json", "r", encoding="utf-8") as f:
+    with open("data/companies.json", "r", encoding="utf-8") as f:
         companies = json.load(f)
 
     all_vacancies = []
@@ -24,7 +24,8 @@ def collect_all_vacancies() -> None:
                 "url": vacancy["alternate_url"]
             })
 
-    with open("vacancies.json", "w", encoding="utf-8") as f:
+    with open("data/vacancies.json", "w", encoding="utf-8") as f:
         json.dump(all_vacancies, f, ensure_ascii=False, indent=2)
 
-    print("✅ Вакансии сохранены в vacancies.json")
+    print("✅ Вакансии сохранены в data/vacancies.json")
+

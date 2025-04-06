@@ -55,7 +55,7 @@ def get_top_companies() -> None:
         else:
             print(f"Компания не найдена: {name}")
 
-    with open("companies.json", "w", encoding="utf-8") as f:
+    with open("data/companies.json", "w", encoding="utf-8") as f:
         json.dump(companies, f, ensure_ascii=False, indent=2)
 
     print("✅ Список компаний сохранён в companies.json")
