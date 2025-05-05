@@ -1,5 +1,6 @@
 from src.db.connection import get_connection
 
+
 def test_db_connection():
     try:
         with get_connection() as conn:
@@ -10,6 +11,7 @@ def test_db_connection():
 
     except Exception as e:
         print("❌ Ошибка подключения к базе данных:", e)
+
 
 if __name__ == "__main__":
     test_db_connection()

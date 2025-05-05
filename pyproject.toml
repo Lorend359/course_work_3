@@ -49,3 +49,6 @@ exclude = '''
 [tool.isort]
 # максимальная длина строки
 line_length = 119
+
+[tool.poetry.scripts]
+cw3 = "src.main:main"

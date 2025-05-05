@@ -1,17 +1,14 @@
-import psycopg2
-from dotenv import load_dotenv
-import os
+from psycopg2 import connect
 
-load_dotenv()
+from src.config import DB_HOST, DB_NAME, DB_PASSWORD, DB_PORT, DB_USER
 
-def get_connection():
-    return psycopg2.connect(
-        dbname="hh_vacancies",
-        user="postgres",
-        password="159753Cdznjckfd!",
-        host="localhost",
-        port="5432",
-        client_encoding="UTF8"
+
+def get_connection(db: str | None = None):
+    return connect(
+        dbname=db or DB_NAME,
+        user=DB_USER,
+        password=DB_PASSWORD,
+        host=DB_HOST,
+        port=DB_PORT,
+        client_encoding="UTF8",
     )
-
-
