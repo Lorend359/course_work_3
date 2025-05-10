@@ -1,0 +1,1017 @@
+[
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Data аналитик",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120206137"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по персональным данным",
+    "salary": {
+      "from": 75000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119120092"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель проектов (Сервис \"Заправки\")",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120227355"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель направления по работе с партнерами",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120216071"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по ручному тестированию (Процессинговый центр)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120075149"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по персональным данным",
+    "salary": {
+      "from": 75000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119958907"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист контакт-центра (выходного дня)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119329095"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Стажер в отдел маркетинга (ул. Мичурина, 19В)",
+    "salary": {
+      "from": 35000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120229168"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по работе с мерчем Альфа-Банка",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120201986"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель направления по развитию уровней лояльности",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120045893"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель IT-проектов",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119952514"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер цифрового продукта",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120042677"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист поддержки по вопросам ипотеки",
+    "salary": {
+      "from": 52700,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/118177751"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Представитель банка",
+    "salary": {
+      "from": 130000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/117455964"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по управленческому развитию (Бизнес- тренер)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120189203"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий менеджер по сопровождению транзакционных сделок",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120219582"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Делопроизводитель",
+    "salary": {
+      "from": 50000,
+      "to": 50000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120065539"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра (выходной день)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119382840"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра (выходной день)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119382922"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра (выходной день)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/116569841"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционной поддержки клиентов",
+    "salary": {
+      "from": 56800,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/111225861"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер по подбору персонала",
+    "salary": {
+      "from": 72000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119766716"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра в чат",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119006672"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Операционный сервис-менеджер (ул.Кирова, 108)",
+    "salary": {
+      "from": 60060,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120213264"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120036194"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий эксперт по подбору персонала",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120189400"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке письменных обращений агентов (только Дальний Восток)",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120015979"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120036513"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Начинающий специалист в Альфа Банк",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119954743"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Администратор в отделение банка (без продаж)",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119417996"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по документообороту",
+    "salary": {
+      "from": null,
+      "to": 54000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120110850"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Администратор IT проектов по развитию системы по обращению граждан",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120021497"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по документообороту",
+    "salary": {
+      "from": 35200,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120111926"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционной поддержки клиентов",
+    "salary": {
+      "from": 52500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/114037423"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/118867756"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер по работе с юридическими лицами",
+    "salary": {
+      "from": 70000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119273376"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель проектов операционного блока",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120119557"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Заместитель руководителя отделения Банка",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120126812"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий эксперт документарных операций",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119245728"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер по развитию клиентов",
+    "salary": {
+      "from": 157500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120121874"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Системный аналитик",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/117465623"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по медиапланированию",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120189251"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель направления развития и координации по взаимодействию с государственными органами",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119159015"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий специалист отдела мониторинга ДБО физических лиц",
+    "salary": {
+      "from": 78300,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/119780745"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Начинающий специалист в Альфа Банк",
+    "salary": {
+      "from": 80000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/120107566"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Администратор отделения Банка",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119033550"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "ИТ- лидер стрима Риски/ Руководитель разработки стрима Риски (розничный бизнес)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119338731"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель по развитию продукта \"Платежные сервисы\"",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120108542"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке письменных обращений агентов (только Дальний Восток)",
+    "salary": {
+      "from": 90000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120016199"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ассистент Руководителя Департамента стратегического развития и качества",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120107102"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Операционный сервис-менеджер в отделение банка (ул. Коммунистическая 52)",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/120222053"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Персональный менеджер клиентов малого бизнеса",
+    "salary": {
+      "from": 95000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120214853"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель универсального дополнительного офиса",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120068808"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Старший специалист по документообороту (Входящая корреспонденция)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119396025"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционной поддержки клиентов",
+    "salary": {
+      "from": 56800,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/118657126"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт направления финансового планирования и анализа",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120017581"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Старший эксперт по решениям для клиентов малого бизнеса",
+    "salary": {
+      "from": 181500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/117652349"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Product owner (семейный банк, подписки)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119971431"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционной поддержки клиентов",
+    "salary": {
+      "from": 52500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/114037548"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Бизнес-аналитик проектов CRM",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120108744"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Начинающий специалист в Альфа-Банк",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120112684"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "DevOps",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120034873"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Представитель банка (доставка карт, без поиска клиентов)",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/119606337"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по развитию корпоративной культуры",
+    "salary": {
+      "from": 75000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/117891228"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120036680"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер по продажам продуктов банка (малый бизнес)",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/117493006"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120036363"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "HR Business Partner / HR BP (Направление Alfa Digital)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119395553"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Начинающий специалист банковской сферы",
+    "salary": {
+      "from": 130000,
+      "to": 280000,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/115109974"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по автокредитованию (г. Уфа)",
+    "salary": {
+      "from": 76000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119110130"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по доставке банковских карт",
+    "salary": {
+      "from": 50000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120204336"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Старший специалист технической поддержки (2 линия)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/118802234"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Представитель банка",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120111358"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Продуктовый дизайнер",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119815670"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120036781"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционной поддержки клиентов",
+    "salary": {
+      "from": 52500,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/118849924"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер",
+    "salary": {
+      "from": 60000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119698941"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Главный специалист по эксплуатации и обеспечению (направление офисная мебель)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119787649"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по взысканию задолженности",
+    "salary": {
+      "from": 140000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/120106803"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист дистанционного контакт-центра (выходной день)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/116569724"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий специалист (Отдел сопровождения сделок предприятий АПК)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120024394"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Универсальный менеджер в отделение банка (г. Орехово-Зуево)",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120215316"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Бизнес-аналитик (Collection)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119128070"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по доставке карт (без поиска клиентов)",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119250428"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Системный аналитик",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119268981"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Backend разработчик (Rust, Highload, Tarantool)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120102252"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Старший редактор (лайфстайл)",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119559353"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Начинающий специалист в Альфа Банк (Сертолово)",
+    "salary": {
+      "from": 95000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119767098"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по урегулированию клиентских обязательств (удаленно)",
+    "salary": {
+      "from": 25000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119889867"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель универсального дополнительного офиса",
+    "salary": {
+      "from": 150000,
+      "to": null,
+      "currency": "RUR",
+      "gross": false
+    },
+    "url": "https://hh.ru/vacancy/120011847"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Методолог / Эксперт по проектированию контента",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119758699"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Секретарь на ресепшен",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119865746"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Менеджер в отделение банка (м. Домодедовская)",
+    "salary": {
+      "from": 100000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119355222"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Специалист по доставке банковских карт",
+    "salary": {
+      "from": 40000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120205234"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий специалист сопроводнения сделок факторинга",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119779969"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Стажёр рекрутер",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/119784699"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Эксперт по обработке обращений партнеров",
+    "salary": null,
+    "url": "https://hh.ru/vacancy/120039798"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Главный эксперт по решениям для клиентов Малого бизнеса",
+    "salary": {
+      "from": 145000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119784439"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Ведущий кредитный аналитик ММБ",
+    "salary": {
+      "from": 285000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/119244215"
+  },
+  {
+    "company_id": "80",
+    "company_name": "Альфа-Банк",
+    "vacancy_name": "Руководитель группы телемаркетинга",
+    "salary": {
+      "from": 120000,
+      "to": null,
+      "currency": "RUR",
+      "gross": true
+    },
+    "url": "https://hh.ru/vacancy/120215654"
+  }
+]
